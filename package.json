@@ -1,0 +1,19 @@
+{
+    "name": "workshopdev-especial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "author": "Ramon Alves",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "minipass": "^2.7.0",
+        "nodemon": "^2.0.2",
+        "nunjucks": "^3.2.1",
+        "sqlite3": "^4.1.1"
+    }
+}
